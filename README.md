@@ -28,9 +28,9 @@ The platform maintains a high level of product availability, indicating efficien
 **Insight 2. Top-3 Most Expensive Brands per Category**
 
 *What this analysis does:*
-Calculates average price per brand within each category
-Ranks brands inside each category
-Identifies the top-3 premium brands
+- Calculates average price per brand within each category
+- Ranks brands inside each category
+- Identifies the top-3 premium brands
 
 *Interpretation:*
 This analysis highlights premium brands dominating each product category based on pricing.
