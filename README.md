@@ -1,9 +1,9 @@
 # Flipkart Fashion Products - JSON Data Parsing & Analysis 
 
-** For this assignment, the Flipkart Fashion Products dataset was selected. **
+**For this assignment, the Flipkart Fashion Products dataset was selected.**
 
 Flipkart is the largest E-commerce website based in India. The pre-crawled dataset has more than 5.7 million records
-
+https://www.kaggle.com/datasets/aaditshukla/flipkart-fasion-products-dataset
 The dataset meets all requirements:
 
 - Stored in JSON format
